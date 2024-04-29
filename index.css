@@ -1,0 +1,23 @@
+*  {
+  box-sizing : border-box;
+  padding: 5px;
+  margin: 0px;
+  background-color: whitesmoke;
+}
+
+div {
+  flex-direction: column;
+  justify-content: center;
+  align-items:left;
+}
+
+button {
+padding : 15px 20px;
+background: skyblue;
+border: 2px solid white;
+outline-color: black;
+border-radius: 5px;
+text-transform: uppercase;
+cursor: pointer;
+}
+
